@@ -1,5 +1,9 @@
-# Defect Detection in Hot Rolling Using Machine Learning
+# Defect Detection in Hot Rolling Using Machine Learning - Hackathon Assessment
 
+## Assessment Information
+
+This project was developed as part of a Machine Learning Hackathon Assessment.
+  
 ## Project Overview
 
 This project focuses on predicting Alpha defects in hot rolling mills using machine learning techniques. The objective is to identify defective coils based on process parameters collected during steel manufacturing.
